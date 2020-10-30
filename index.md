@@ -22,13 +22,24 @@ The future of cities, big data, GIS.
 
 ## Education
 
-`2020-Present`
+`September 2020 - Present`
 __University College London__ MSc Smart Cities and Urban Analytics
 
-`2016 - 2020`
+- Modules include: 
+  - Geographic Information Systems and Science 
+  - Quantitative Methods
+  - Smart Cities: Context, Policy and Government
+  - Urban Systems Theory
+  - Spatial Data Capture, Storage and Analysis
+  - Urban Simulation
+
+`September 2016 - June 2019`
 __University College London__ BEng Civil Engineering
 
-- Sizar
+- Final	result: First	Class Honours
+- Modules	studied	include:	All	“Core”	Civil	Engineering	modules,	Civil	Engineering	scenarios	and	
+three	optional	modules	in	Sustainable	Building	Design
+- Societies:	Green	Economy	Society,	Bridges	to	Prosperit
 
 `1667 - death`
 __Trinity College, Cambridge__
