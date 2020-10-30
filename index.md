@@ -1,37 +1,32 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Signe Swarttouw CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Signe Swarttouw
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="signeswarttouw@outlook.com">signeswarttouw@outlook.com</a>
+| <a href="07871210541">07871210541</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+MSc Smart Cities and Urban Analytics student at UCL's Centre for Advanced Spatial Analytics.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+The future of cities, big data, GIS.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-Present`
+__University College London__ MSc Smart Cities and Urban Analytics
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016 - 2020`
+__University College London__ BEng Civil Engineering
 
 - Sizar
 
