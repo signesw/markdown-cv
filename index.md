@@ -39,13 +39,31 @@ __University College London__ BEng Civil Engineering
 - Final	result: First	Class Honours
 - Modules	studied	include:	All	“Core”	Civil	Engineering	modules,	Civil	Engineering	scenarios	and	
 three	optional	modules	in	Sustainable	Building	Design
-- Societies:	Green	Economy	Society,	Bridges	to	Prosperit
+- Societies:	Green	Economy	Society,	Bridges	to	Prosperity
 
-`1667 - death`
-__Trinity College, Cambridge__
+`September 2015 - June 2016`
+__University College London__ BSc Architectural and Interdisciplinary Studies
 
-- Fellow
+-  First	year	result:	Upper	Second	Class
+- Modules	studied	include:	History	and	Theory	of	Cities	and	their	Architecture,	Intro	to	Urban	
+Planning,	and	Architectural	Design
 
+`September 2012 - May 2015`
+__International School of Helsinki__ BSc Architectural and Interdisciplinary Studies
+
+- IB result: 40 points
+ 
+ ## Occupation
+
+`January 2020- May 2020`
+__BuroHappold Engineering__, London
+
+- 5 month placement with the sustainability team
+- Created a grasshopper script 
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
 
 ## Awards
@@ -77,16 +95,6 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
