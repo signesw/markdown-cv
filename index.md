@@ -59,11 +59,13 @@ __International School of Helsinki__ BSc Architectural and Interdisciplinary Stu
 __BuroHappold Engineering__, London
 
 - 5 month placement with the sustainability team
-- Created a grasshopper script 
-- Minted coins
+- Developed a grasshopper script used to analyse multiple weather data files, producing a variety of outputs relating to UTCI comfort indicators.
+- Produced a script for sensitivity analysis, evaluating the effect of different thermal comfort interventions.
+- Produced a script to visualise dynamic changes in thermal comfort for pedestrians along a path. 
+- Aided in the developement of developing a grasshopper script that can automatically generate 3d models to be used in parametric energy simulations.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`September 2019 - December 2019`
+__Humly__, Helsingborg, Sweden
 
 
 ## Awards
