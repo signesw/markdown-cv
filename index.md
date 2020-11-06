@@ -94,16 +94,11 @@ UCL Transition Mentor, *UCL Department of Civil, Environmental, and Geomatic Eng
 RIBA Friends Ambassador, *Royal Institute of British Architects*, London, UK
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Relevant Skills:
 
-- `Language	proficiency:` Fluent	in English,	Swedish	and	Dutch.
-- `Technical	skills:`	Experience	in	using	MS	Office,	Adobe, AutoCAD, Rhino	and	Grasshopper, ArcMap	and	QGIS.
-- `Coding experience:` Python and R
+`Language	proficiency:` Fluent	in English,	Swedish	and	Dutch.
+`Technical	skills:`	Experience	in	using	MS	Office,	Adobe, AutoCAD, Rhino	and	Grasshopper, ArcMap	and	QGIS.
+`Coding experience:` Git, GitHub, Python and R
 
 
 
