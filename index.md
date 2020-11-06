@@ -96,9 +96,14 @@ RIBA Friends Ambassador, *Royal Institute of British Architects*, London, UK
 
 ### Relevant Skills:
 
-`Language	proficiency:` Fluent	in English,	Swedish	and	Dutch.
-`Technical	skills:`	Experience	in	using	MS	Office,	Adobe, AutoCAD, Rhino	and	Grasshopper, ArcMap	and	QGIS.
-`Coding experience:` Git, GitHub, Python and R
+`Language	proficiency:`
+ Fluent	in English,	Swedish	and	Dutch.
+ 
+`Technical	skills:`	
+ Experience	in	using	MS	Office,	Adobe, AutoCAD, Rhino	and	Grasshopper, ArcMap	and	QGIS.
+ 
+`Coding experience:`
+ Git, GitHub, Python and R
 
 
 
