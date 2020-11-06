@@ -59,7 +59,7 @@ __International School of Helsinki__ BSc Architectural and Interdisciplinary Stu
 __BuroHappold Engineering__, London
 
 - 5 month placement with the sustainability team
-- Developed a grasshopper script used to analyse multiple weather data files, producing a variety of outputs relating to UTCI comfort indicators.
+- Developed a Grasshopper script with custom Python code used to analyse multiple weather data files, producing a variety of outputs relating to UTCI comfort indicators.
 - Produced a script for sensitivity analysis, evaluating the effect of different thermal comfort interventions.
 - Produced a script to visualise dynamic changes in thermal comfort for pedestrians along a path. 
 - Aided in the developement of developing a grasshopper script that can automatically generate 3d models to be used in parametric energy simulations.
@@ -67,8 +67,22 @@ __BuroHappold Engineering__, London
 `September 2019 - December 2019`
 __Humly__, Helsingborg, Sweden
 
+- Subsitute teacher at Humly
+- Was on	call	every	day,	be	placed	at	different	primary	and	secondary	schools	in	the	local	
+area.	
+- Planned	and	delivered	lessons in different working environments on short notice	for	students	ranging	from	9-18	years	old.	
 
-## Awards
+`July 2018 - September 2018`
+__BuroHappold Engineering__, London
+
+- Summer placement with Cities team and Happold Scholarship recipent
+- Deveveloped	a	parametric	model	in	Grasshopper	that	can	quantify	the	environmental,	
+  economic,	and	social	consequences	of	a	given	urban	environmental	policy	(for	example,	controlled	
+  emissions	of	pollutants).
+- Other	tasks	included	in-depth	studies	on	mental	well-being	in	urban	areas,	work	in	GIS,	and	
+  performing	financial	analyses	using	Excel.
+
+## Volounteering
 
 `2012`
 President, *Royal Society*, London, UK
