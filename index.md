@@ -42,7 +42,7 @@ three	optional	modules	in	Sustainable	Building	Design
 - Societies:	Green	Economy	Society,	Bridges	to	Prosperity
 
 `September 2015 - June 2016`
-__University College London__ BSc Architectural and Interdisciplinary Studies
+__University College London__ BSc Architectural & Interdisciplinary Studies
 
 -  First	year	result:	Upper	Second	Class
 - Modules	studied	include:	History	and	Theory	of	Cities	and	their	Architecture,	Intro	to	Urban	
@@ -70,7 +70,17 @@ __Humly__, Helsingborg, Sweden
 - Subsitute teacher at Humly
 - Was on	call	every	day,	be	placed	at	different	primary	and	secondary	schools	in	the	local	
 area.	
-- Planned	and	delivered	lessons in d
+- Planned	and	delivered	lessons in different working environments on short notice	for	students	ranging	from	9-18	years	old.	
+
+`July 2018 - September 2018`
+__BuroHappold Engineering__, London
+
+- Summer placement with Cities team and Happold Scholarship recipent
+- Deveveloped	a	parametric	model	in	Grasshopper	that	can	quantify	the	environmental,	
+  economic,	and	social	consequences	of	a	given	urban	environmental	policy	(for	example,	controlled	
+  emissions	of	pollutants).
+- Other	tasks	included	in-depth	studies	on	mental	well-being	in	urban	areas,	work	in	GIS,	and	
+  performing	financial	analyses	using	Excel.
 
 ## Awards
 
