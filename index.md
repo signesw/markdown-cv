@@ -33,7 +33,7 @@ __University College London__ MSc Smart Cities and Urban Analytics
   - Spatial Data Capture, Storage and Analysis
   - Urban Simulation
   
-  `September 2016 - June 2019`
+ `September 2016 - June 2019`
 __University College London__ BEng Civil Engineering
 
 - Final	result: First	Class Honours
