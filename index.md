@@ -85,56 +85,25 @@ __BuroHappold Engineering__, London
 ## Volunteering
 
 `2017-2019`
-Project Leader, *UCL Bridges to Prosperity*, London, UK
+__Project Leader__ *UCL Bridges to Prosperity*, London, UK
 
 `2017-2019`
-UCL Transition Mentor, *UCL Department of Civil, Environmental, and Geomatic Engineering*, London, UK
+__UCL Transition Mentor__, *UCL Department of Civil, Environmental, and Geomatic Engineering*, London, UK
 
 `2016-2017`
-RIBA Friends Ambassador, *Royal Institute of British Architects*, London, UK
+__RIBA Friends Ambassador__, *Royal Institute of British Architects*, London, UK
 
 
 ## Relevant Skills:
 
-`Language	proficiency:`
+__Language	proficiency__
  Fluent	in English,	Swedish	and	Dutch.
  
-`Technical	skills:`	
+__Technical	skills__	
  Experience	in	using	MS	Office,	Adobe, AutoCAD, Rhino	and	Grasshopper, ArcMap	and	QGIS.
  
-`Coding experience:`
- Git, GitHub, Python and R
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Coding experience__
+ Git, GitHub, Markdown, Python and R
 
 
 
