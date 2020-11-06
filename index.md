@@ -25,7 +25,13 @@ The future of cities, big data, GIS.
 `September 2020 - Present`
 __University College London__ MSc Smart Cities and Urban Analytics
 
-- hello test
+- Modules include: 
+  - Geographic Information Systems and Science 
+  - Quantitative Methods
+  - Smart Cities: Context, Policy and Government
+  - Urban Systems Theory
+  - Spatial Data Capture, Storage and Analysis
+  - Urban Simulation
 
 `June 1661 - now`
 __Trinity College, Cambridge__
