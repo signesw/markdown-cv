@@ -5,9 +5,9 @@ title: Signe Swarttouw CV
 # Signe Swarttouw
 
 <div id="webaddress">
-<a href="signeswarttouw@outlook.com">signeswarttouw@outlook.com</a>
-| <a href="07871210541">07871210541</a>
-
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
 ## Currently
 
@@ -21,7 +21,7 @@ The future of cities, big data, GIS.
 
 ## Education
 
-`September 2020 - Present`
+`2020 - Present`
 __University College London__ MSc Smart Cities and Urban Analytics
 
 - Modules include: 
@@ -32,7 +32,7 @@ __University College London__ MSc Smart Cities and Urban Analytics
   - Spatial Data Capture, Storage and Analysis
   - Urban Simulation
 
-`September 2016 - June 2019`
+`2016 - 2019`
 __University College London__ BEng Civil Engineering
 
 - Final	result: First	Class Honours
@@ -40,21 +40,21 @@ __University College London__ BEng Civil Engineering
 three	optional	modules	in	Sustainable	Building	Design
 - Societies:	Green	Economy	Society,	Bridges	to	Prosperity
 
-`September 2015 - June 2016`
+`2015 -  2016`
 __University College London__ BSc Architectural and Interdisciplinary Studies
 
 -  First	year	result:	Upper	Second	Class
 - Modules	studied	include:	History	and	Theory	of	Cities	and	their	Architecture,	Intro	to	Urban	
 Planning,	and	Architectural	Design
 
-`September 2012 - May 2015`
+`2012 - 2015`
 __International School of Helsinki__ BSc Architectural and Interdisciplinary Studies
 
 - IB result: 40 points
  
  ## Work Experience
 
-`January 2020- May 2020`
+`Spring 2020`
 __BuroHappold Engineering__, London
 
 - 5 month placement with the sustainability team
@@ -63,7 +63,7 @@ __BuroHappold Engineering__, London
 - Produced a script to visualise dynamic changes in thermal comfort for pedestrians along a path. 
 - Aided in the developement of developing a grasshopper script that can automatically generate 3d models to be used in parametric energy simulations.
 
-`September 2019 - December 2019`
+`Autumn 2019`
 __Humly__, Helsingborg, Sweden
 
 - Subsitute teacher at Humly
@@ -71,7 +71,7 @@ __Humly__, Helsingborg, Sweden
 area.	
 - Planned	and	delivered	lessons in different working environments on short notice	for	students	ranging	from	9-18	years	old.	
 
-`July 2018 - September 2018`
+`Summer 2018`
 __BuroHappold Engineering__, London
 
 - Summer placement with Cities team and Happold Scholarship recipent
