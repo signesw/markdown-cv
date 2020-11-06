@@ -49,7 +49,28 @@ __University College London__ BSc Architectural and Interdisciplinary Studies
 Planning,	and	Architectural	Design
 
 `September 2012 - May 2015`
-__International School of Helsinki__ BSc Architectural and Interdisciplinary Studies
+__International School of Helsinki__ International Baccalaureate
+
+- IB Points: 40 
+
+## Work Experience
+
+`January 2020- May 2020`
+__BuroHappold Engineering__, London
+
+- 5 month placement with the sustainability team
+- Developed a Grasshopper script with custom Python code used to analyse multiple weather data files, producing a variety of outputs relating to UTCI comfort indicators.
+- Produced a script for sensitivity analysis, evaluating the effect of different thermal comfort interventions.
+- Produced a script to visualise dynamic changes in thermal comfort for pedestrians along a path. 
+- Aided in the developement of developing a grasshopper script that can automatically generate 3d models to be used in parametric energy simulations.
+
+`September 2019 - December 2019`
+__Humly__, Helsingborg, Sweden
+
+- Subsitute teacher at Humly
+- Was on	call	every	day,	be	placed	at	different	primary	and	secondary	schools	in	the	local	
+area.	
+- Planned	and	delivered	lessons in d
 
 ## Awards
 
