@@ -6,7 +6,7 @@ title: Signe Swarttouw CV
 
 <div id="webaddress">
 <a href="signeswarttouw@outlook.com">signeswarttouw@outlook.com</a>
-| <a href="07871210541">07871210541</a>
+| <a href="07871210541">07871210541</a>https://github.com/signesw/markdown-cv/security
 </div>
 
 
@@ -94,7 +94,7 @@ UCL Transition Mentor, *UCL Department of Civil, Environmental, and Geomatic Eng
 RIBA Friends Ambassador, *Royal Institute of British Architects*, London, UK
 
 
-### Relevant Skills:
+## Relevant Skills:
 
 `Language	proficiency:`
  Fluent	in English,	Swedish	and	Dutch.
