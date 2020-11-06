@@ -2,7 +2,7 @@
 layout: cv
 title: Signe Swarttouw's CV
 ---
-# Isaac Newton
+# Signe Swarttouw
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -14,11 +14,6 @@ Physicist, Mathematician, Cambridge professor.
 ## Currently
 
 MSc Smart Cities and Urban Analytics student at UCL's Centre for Advanced Spatial Analytics.
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
 
 ### Research interests
 
