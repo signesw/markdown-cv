@@ -6,8 +6,7 @@ title: Signe Swarttouw CV
 
 <div id="webaddress">
 <a href="signeswarttouw@outlook.com">signeswarttouw@outlook.com</a>
-| <a href="07871210541">07871210541</a>https://github.com/signesw/markdown-cv/security
-</div>
+| <a href="07871210541">07871210541</a>
 
 
 ## Currently
