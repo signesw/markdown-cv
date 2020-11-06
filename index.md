@@ -22,8 +22,10 @@ The future of cities, big data, GIS.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2020 - Present`
+__University College London__ MSc Smart Cities and Urban Analytics
+
+- hello test
 
 `June 1661 - now`
 __Trinity College, Cambridge__
