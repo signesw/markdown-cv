@@ -53,7 +53,7 @@ __International School of Helsinki__ BSc Architectural and Interdisciplinary Stu
 
 - IB result: 40 points
  
- ## Occupation
+ ## Work Experience
 
 `January 2020- May 2020`
 __BuroHappold Engineering__, London
@@ -82,12 +82,16 @@ __BuroHappold Engineering__, London
 - Other	tasks	included	in-depth	studies	on	mental	well-being	in	urban	areas,	work	in	GIS,	and	
   performing	financial	analyses	using	Excel.
 
-## Volounteering
+## Volunteering
 
-`2012`
-President, *Royal Society*, London, UK
+`2017-2019`
+Project Leader, *UCL Bridges to Prosperity*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+`2017-2019`
+UCL Transition Mentor, *UCL Department of Civil, Environmental, and Geomatic Engineering*, London, UK
+
+`2016-2017`
+RIBA Friends Ambassador, *Royal Institute of British Architects*, London, UK
 
 
 
