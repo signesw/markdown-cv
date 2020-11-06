@@ -89,9 +89,9 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
-  columns: 3;
-  -webkit-columns: 3;
-  -moz-columns: 3;
+  columns: 1;
+  -webkit-columns: 1;
+  -moz-columns: 1;
 }
 
 
