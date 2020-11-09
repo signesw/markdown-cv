@@ -5,8 +5,8 @@ title: Signe Swarttouw CV
 # Signe Swarttouw
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="signeswarttouw@outlook.com">isaac@applesdofall.org</a>
+| <a href="07871210841">07871210541</a>
 </div>
 
 ## Currently
