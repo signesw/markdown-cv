@@ -81,7 +81,7 @@ __BuroHappold Engineering__, London, UK
 - Other	tasks	included	in-depth	studies	on	mental	well-being	in	urban	areas,	work	in	GIS,	and	
   performing	financial	analyses	using	Excel.
   
-  `August 2017 - September 2017`
+`August 2017 - September 2017`
 __Mobilis DK__, Copenhagen, Denmark
 
 - Summer Internship 
