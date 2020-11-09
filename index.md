@@ -48,7 +48,7 @@ __University College London__ BSc Architectural and Interdisciplinary Studies
 Planning,	and	Architectural	Design
 
 `2012 - 2015`
-__International School of Helsinki__ BSc Architectural and Interdisciplinary Studies
+__International School of Helsinki__ International Baccalaureate
 
 - IB result: 40 points
  
@@ -113,7 +113,7 @@ RIBA Friends Ambassador, *Royal Institute of British Architects*, London, UK
  Experience	in	using	MS	Office,	Adobe, AutoCAD, Rhino	and	Grasshopper, ArcMap	and	QGIS.
  
 `Coding experience:`
- Git, GitHub, Python and R
+ Git, GitHub, Python, R, and Markdown
 
 
 
