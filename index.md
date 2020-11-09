@@ -54,8 +54,8 @@ __International School of Helsinki__ BSc Architectural and Interdisciplinary Stu
  
  ## Work Experience
 
-`Spring 2020`
-__BuroHappold Engineering__, London
+`January 2020 - May 2020`
+__BuroHappold Engineering__, London, UK
 
 - 5 month placement with the sustainability team
 - Developed a Grasshopper script with custom Python code used to analyse multiple weather data files, producing a variety of outputs relating to UTCI comfort indicators.
@@ -63,7 +63,7 @@ __BuroHappold Engineering__, London
 - Produced a script to visualise dynamic changes in thermal comfort for pedestrians along a path. 
 - Aided in the developement of developing a grasshopper script that can automatically generate 3d models to be used in parametric energy simulations.
 
-`Autumn 2019`
+`September 2019- December 2020`
 __Humly__, Helsingborg, Sweden
 
 - Subsitute teacher at Humly
@@ -71,8 +71,8 @@ __Humly__, Helsingborg, Sweden
 area.	
 - Planned	and	delivered	lessons in different working environments on short notice	for	students	ranging	from	9-18	years	old.	
 
-`Summer 2018`
-__BuroHappold Engineering__, London
+`July 2018 - September 2018`
+__BuroHappold Engineering__, London, UK
 
 - Summer placement with Cities team and Happold Scholarship recipent
 - Deveveloped	a	parametric	model	in	Grasshopper	that	can	quantify	the	environmental,	
@@ -80,6 +80,17 @@ __BuroHappold Engineering__, London
   emissions	of	pollutants).
 - Other	tasks	included	in-depth	studies	on	mental	well-being	in	urban	areas,	work	in	GIS,	and	
   performing	financial	analyses	using	Excel.
+  
+  `August 2017 - September 2017`
+__Mobilis DK__, Copenhagen, Denmark
+
+- Summer Internship 
+- I	was	on	site	with	Mobilis	in	central	Copenhagen	during	the	construction	of	a	new	pedestrian	and	
+  cycling	bridge.	
+- Tasks	included	ensuring	health	and	safety	standards	were	met	and	were	up	to	date	prior	to	an	
+  inspection,	administrating	bills, and	assisting	the	surveyor	when	setting	out	the	piles	for	
+  the	abutment.	 
+  
 
 ## Volunteering
 
